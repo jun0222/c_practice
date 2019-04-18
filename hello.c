@@ -2,6 +2,7 @@
 
 int main(void)
 {
-    printf("HelloWorld");
+    printf("Windows\tMicrosoft\n");
+    printf("MacOS\tApple\n");
     return 0;
 }
