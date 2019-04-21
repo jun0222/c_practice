@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("Windows\tMicrosoft\n");
-    printf("MacOS\tApple\n");
-    return 0;
+      printf("Intel\t: Pentium4\n");
+      printf("AMD\t: Athlon64\n");
+      return 0;
 }
