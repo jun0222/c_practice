@@ -2,7 +2,6 @@
 
 int main(void)
 {
-      printf("Intel\t: Pentium4\n");
-      printf("AMD\t: Athlon64\n");
+      printf("%d+%d=%d\n",100,200,300);
       return 0;
 }
